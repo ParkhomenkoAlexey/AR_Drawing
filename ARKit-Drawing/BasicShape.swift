@@ -1,0 +1,22 @@
+import UIKit
+
+// Перечисления соответствующие опциям
+
+// RawRepresentable - протокол
+// Используется когда вы используете энумы в качестве
+// опций из которых пользователь выбирает
+enum ShapeOption: String, RawRepresentable {
+    case addShape = "Select Basic Shape"
+    case addScene = "Select Scene File"
+    case togglePlane = "Enable/Disable Plane Visualization"
+    case undoLastShape = "Undo Last Shape"
+    case resetScene = "Reset Scene"
+}
+
+enum Shape: String {
+    case box = "Box", sphere = "Sphere", cylinder = "Cylinder", cone = "Cone", pyramid = "Pyramid"
+}
+
+enum Size: String {
+    case small = "Small", medium = "Medium", large = "Large", extraLarge = "Extra Large"
+}
