@@ -7,14 +7,17 @@ You need to use Xcode 10 to compile.  There is a prototype version.  The applica
 
 ## The first screen is the login view.
 Login/Join an app.
+
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/first.png)
 
 ## The first screen is the map view.
 Select the real building you want to paint.  
+
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/second.png?raw=true)
 
 ## The first screen is the description of the building view.
 Important information and description
+
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/third.png?raw=true)
 
 ## The fourth screen is the AR Overview view.
