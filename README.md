@@ -8,6 +8,7 @@ You need to use Xcode 10 to compile.  There is a prototype version.  The applica
 ## The first screen is login view.
 Login/Join an app.
 
+![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/first.png)
 
 ## The second screen is the map view.
 Select the building you want to restore.
