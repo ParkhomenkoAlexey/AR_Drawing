@@ -10,12 +10,12 @@ Login/Join an app.
 
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/first.png)
 
-## The first screen is the map view.
+## The second screen is the map view.
 Select the real building you want to paint.  
 
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/second.png?raw=true)
 
-## The first screen is the description of the building view.
+## The third screen is the description of the building view.
 Important information and description
 
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/third.png?raw=true)
@@ -34,3 +34,6 @@ Watch a short video how it works (https://yadi.sk/i/IEx1-08WIIZQtw)
 In our application you can also just draw in augmented reality around you what you want or determine the pictures that you upload
 Watch a short video how it works (https://yadi.sk/i/tPmbg20IRsEFEw)
 
+## Ugraph team
+@parkhomenkoalex
+@Yuliaazak
