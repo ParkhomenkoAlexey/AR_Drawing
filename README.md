@@ -5,17 +5,15 @@ UGraph – made as part of Moscow VR/AR-Hackathon on Oct 5–6, 2018 (http://vra
 
 You need to use Xcode 10 to compile.  There is a prototype version.  The application is under development.
 
-## The first screen is login view.
-Login/Join an app.
+## The first screen is login view.The second screen is the map view.The third screen is the description view.
+Login/Join an app. Select the building you want to restore. Important information about the building.
 
 ![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/first.png)
+![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/second.png?raw=true)
+![View](https://github.com/ParkhomenkoAlexey/AR_Drawing/blob/master/third.png?raw=true)
 
-## The second screen is the map view.
-Select the building you want to restore.
 
 
-## The third screen is the description view.
-Important information about the building.
 
 
 ## The fourth screen is the AR Overview view.
