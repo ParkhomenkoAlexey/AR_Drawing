@@ -34,7 +34,4 @@ Watch a short video how it works: (https://yadi.sk/i/IEx1-08WIIZQtw)
 In our application you can also just draw in augmented reality around you what you want or determine the pictures that you upload.
 Watch a short video how it works: (https://yadi.sk/i/tPmbg20IRsEFEw)
 
-## Ugraph team
-Telegram
-@parkhomenkoalex
-@Yuliaazak
+## You can white me in Telegram - @parkhomenkoalex
